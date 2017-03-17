@@ -94,6 +94,7 @@ See https://news.ycombinator.com/item?id=13874026
 - [Contactlab](http://contactlab.com/en/careers/) | Milan, Italy | Recruiter interview, tech interview (technical background and experiences), both on-site.
 - [Cognitive Logic](https://www.cognitivelogic.com/) | Basingstoke, UK | On-site unsupervised exercise & discussion.
 - [Coorp Academy](https://www.coorpacademy.com/) | Paris, France | Technical interview as an open discussion
+- [cosee](https://www.cosee.biz) | Darmstadt, Germany | Take-home project, on-site presentation and discussion with team members.  
 - [Credit Kudos](https://creditkudos.com/jobs/) | London, UK | Take-home project and pair programming via Skype or on-site.
 - [Crowdstrike](https://jobs.jobvite.com/careers/crowdstrike/jobs) | US (Multiple), UK (London), Remote | [UI Team] Multiple interviews onsite or remote as appropriate followed by small take-home project.
 - [CurrencyTransfer](https://www.currencytransfer.com) | London, UK & Remote | Take-home project
